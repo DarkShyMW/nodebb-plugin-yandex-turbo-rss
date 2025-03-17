@@ -1,0 +1,25 @@
+{
+  "name": "nodebb-plugin-yandex-turbo-rss",
+  "version": "1.0.0",
+  "description": "A NodeBB plugin that generates Yandex Turbo RSS feed",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarkShyMW/nodebb-plugin-yandex-turbo-rss"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "yandex",
+    "turbo",
+    "rss"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "rss": "^1.2.2"
+  },
+  "nbbpm": {
+    "compatibility": "^2.0.0"
+  }
+}
